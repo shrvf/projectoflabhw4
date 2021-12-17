@@ -1,0 +1,3 @@
+Make a function at first. It checks numberes which user enter, if remainder of dividing the number by 2 is 0, the number is even, and if remainder is not equal
+ to 0, it is an odd number.
+Then I asked the number from user; & at the end print outcome.

@@ -1,0 +1,5 @@
+at first explain a function which recegnise if the number is prime or not
+I get res = True, after that if the remainder of dividing that number by even one of the numbers 2, 3, etc. until the square of that number is zero is not prime, and if the remainder of dividing for none of those numbers
+ the number which client asks is prime. So i set count equal to square root of asking number plus 1.
+I use condition to say if the asking number is 0 or 1, it is not prime, and if the number is 2, it is prime, for other numbers i use a "loop for" to check the reminder of division the noumer untill its square root,
+ if one of them is 0, so the function return "No", and if none of them equal 0, function return "Yes". Then I asked the user to enter a number. At the end print result of this program.
